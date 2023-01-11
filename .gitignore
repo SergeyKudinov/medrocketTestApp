@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+/.php
+.php.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
